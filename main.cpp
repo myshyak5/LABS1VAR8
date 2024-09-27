@@ -43,4 +43,6 @@ int main()
     std::cout << "Float: " << xf << " + " << yf << " = " << xf - yf << std::endl;
     std::cout << "Double: " << xd << " + " << yd << " = " << xd - yd << std::endl;
     std::cout << "Bool: " << xb << " + " << yb << " = " << xb - yb << std::endl;
+
+    return 0;
 }
